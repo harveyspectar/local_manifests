@@ -9,7 +9,7 @@
         <project path="kernel/xiaomi/msm8953" name="android_kernel_xiaomi_msm8953-1" remote="harveyspectar" revision="lineage-17.1" clone-depth="1" />
         
         <remote name="vendor"
-                fetch="https://gitlab.com/harveyspectar" />"
+                fetch="https://github.com/harveyspectar" />"
         <project path="vendor/xiaomi" name="proprietary_vendor_xiaomi" remote="vendor" revision="lineage-17.1" clone-depth="1" />
         
 </manifest>
