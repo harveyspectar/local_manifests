@@ -4,9 +4,9 @@
         <remote name="harveyspectar"
                 fetch="https://github.com/harveyspectar" />
 
-        <project path="device/xiaomi/tissot" name="android_device_xiaomi_tissot-1" remote="harveyspectar revision="lineage-17.1" clone-depth="1" />
+        <project path="device/xiaomi/tissot" name="android_device_xiaomi_tissot-1" remote="harveyspectar" revision="lineage-17.1" clone-depth="1" />
         <project path="device/xiaomi/msm8953-common" name="android_device_xiaomi_msm8953-common" remote="harveyspectar" revision="lineage-17.1" clone-depth="1" />
-        <project path="kernel/xiaomi/msm8953" name="android_kernel_xiaomi_msm8953-1" remote="harveyspectar revision="lineage-17.1" clone-depth="1" />
+        <project path="kernel/xiaomi/msm8953" name="android_kernel_xiaomi_msm8953-1" remote="harveyspectar" revision="lineage-17.1" clone-depth="1" />
         
         <remote name="vendor"
                 fetch="https://gitlab.com/harveyspectar" />"
